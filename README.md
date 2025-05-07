@@ -18,4 +18,4 @@ Open the file AddressValidator.py file with the python IDE and hit run.
 
 
 ## 🤖 Author
-tommcgurn10
+Amori Adefolahan 
